@@ -1,0 +1,2 @@
+# jsscript
+small javascript file
